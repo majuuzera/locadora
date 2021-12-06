@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+#telalogin{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 5px 30px rgb(12, 12, 12);
+    border-radius: 10px 20px 30px;
+}
+
+#fundo{
+    background-image: url(https://dicas.olx.com.br/wp-content/uploads/2021/04/tipos-de-carros-capa.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#inserir_cliente.php{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 5px 30px rgb(12, 12, 12);
+    border-radius: 10px 20px 30px;
+}
+#fundoc{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm_ljUZ6WMmmxL3SS3y_5PivsDINajQENpvA&usqp=CAU);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.display-3{
+    font-family: 'Bebas Neue', cursive;
+}
+.t1{
+    font-family: 'Bebas Neue', cursive;
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+.tittle{
+   margin-top: 20em;
+   padding: 8;
+   
+}
+.card{
+    margin-top: 5em;
+}
+.h6{
+    font-family: 'Bebas Neue', cursive;
+}
+body {
+    padding-top: 30%;
+    background-image: url('../img/v2.png');
+    background-size: 50%;
+    background-position: center;
+    margin: 0%;
+  }
+  
+  #menu {
+    background-color: rgba(0,0,0,2) !important;
+    padding: 1.5rem 1rem;
+    transition: all 200ms linear;
+  }
+  #menu.ativo {
+    background-color: rgba(0,0,0,0.2) !important;
+    padding: .5rem 1rem;
+  }
+  

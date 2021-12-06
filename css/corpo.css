@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+#menu {
+    background-color: rgba(0, 0, 0, 2) !important;
+    padding: 1.5rem 1rem;
+    transition: all 200ms linear;
+}
+
+#menu.ativo {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    padding: .5rem 1rem;
+}
+
+
+/* .display-1{
+    margin-top: 15%;
+    background-image: url('../img/CAR3.jpg');
+    background-size: 100%;
+    padding-top: 20%;
+} */
+
+.jumbotron {
+    height: 100vh;
+}
+
+.col-md-3 {
+    width: 100%;
+    float: left;
+    padding: 2rem;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    margin: 0 auto;
+    /* Added */
+    float: none;
+    /* Added */
+    margin-bottom: 10px;
+    /* Added */
+}
+
+.display-2 {
+    margin-top: 25vh;
+    font-family: 'Bebas Neue', cursive;
+    text-shadow: 0.1em 0.1em 0.2em black;
+    color: #fff;
+}
+
+.display-3 {
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 0.1em 0.1em 0.2em rgb(156, 156, 156);
+    color: black;
+}
+
+.p-3 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-title {
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-text {
+    font-family: 'Oswald', sans-serif;
+}
+
+.foot {
+    font-family: 'Bebas Neue', cursive;
+}
