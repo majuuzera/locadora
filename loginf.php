@@ -27,7 +27,7 @@ if (mysqli_num_rows($dados)<=0){ //se o registro é menor ou igual a zero, signi
        session_start(); // inicia a sessão
        $_SESSION['usuario'] = $usuario2; //atribui o usuario informado para a variavel de sessão
    }
-   header("Location: index.php"); //Direciona para a pagina restrita
+   header("Location: index.html"); //Direciona para a pagina restrita
     
 
    //aplicação do cookie

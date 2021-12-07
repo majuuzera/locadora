@@ -74,7 +74,7 @@
          <tr>
                 <td colspan="5"><input type="submit" value="Atualizar Carrinho" /></td>
                 <tr>
-                <td colspan="5"><a href="index.php">Continuar Comprando</a></td>
+                <td colspan="5"><a href="index.html">Continuar Comprando</a></td>
    </tfoot>
 
    <tbody>
